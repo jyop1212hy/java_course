@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b092cc7d-e567-4e79-9324-ac4c2228dece" name="Changes" comment="테스트 111">
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter1/MyNewClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Casting/Casting 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Casting/Casting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Casting/Casting2 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Casting/Casting2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Casting/Casting3 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Casting/Casting3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Casting/Casting4 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Casting/Casting4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/HelloJava/CommentJava 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/HelloJava/CommentJava.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/HelloJava/HelloJava 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/HelloJava/HelloJava.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/HelloJava/HelloJava2 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/HelloJava/HelloJava2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/HelloJava/HelloJave 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/HelloJava/HelloJave.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/Break1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/Break1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/Break2 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/Break3 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/Break3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/Continue1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/Continue1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/DoWhile1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/DoWhile1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/For1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/For1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/For2 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/For2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/Nested1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/Nested1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/While1_1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/While1_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/While2_1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/While2_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/While2_3 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/While2_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/Whilel1_2 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/Whilel1_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/ex 2/ForEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/ex 2/ForEx3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/ex 2/Forex2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/ex 2/NestedEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/ex 2/NestedEx2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/ex 2/WhileEx2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/ex 2/WhileEx3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/ex 2/whileEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/ex/ForEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/ex/ForEx3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/ex/Forex2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/ex/NestedEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/ex/NestedEx2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/ex/WhileEx2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/ex/WhileEx3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Ioop/ex/whileEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Main 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/Assign1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/Assign1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/Comp1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/Comp1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/Comp2 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/Comp2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/Logical1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/Logical1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/Logical2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/Operator1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/Operator2 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/Operator2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/Operator3 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/Operator3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/Operator4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/OperatorAdd1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/OperatorAdd1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/OperatorAdd2 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/OperatorAdd2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/aaa 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/aaa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/ex 2/OperationEx2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/ex 2/OperationEx3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/ex/OperationEx2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Operator/ex/OperationEx3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Scope/Scope1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Scope/Scope1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Scope/Scope2 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Scope/Scope2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Scope/Scope3_1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Scope/Scope3_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/Scope/Scope3_2 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/CondOp1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/CondOp1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/CondOp2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex 2/AmnioticFluidSelfEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex 2/AmnioticFluidSelfEx2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex 2/AmnioticFluidSelfEx3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex 2/AmnioticFluidSelfEx3_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex 2/AmnioticFluidSelfEx4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex 2/CondOpEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex 2/DistanceEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex 2/ExchangeRateEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex 2/GradeSwitchEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex 2/MovieRateEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex 2/ScoreEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex/AmnioticFluidSelfEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex/AmnioticFluidSelfEx2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex/AmnioticFluidSelfEx3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex/AmnioticFluidSelfEx3_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex/AmnioticFluidSelfEx4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex/CondOpEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex/DistanceEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex/EvenOddEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex/ExchangeRateEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex/GradeSwitchEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex/MovieRateEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Ex/ScoreEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/If1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Switch1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Switch1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Switch2 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Switch2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Switch3 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Switch4 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/Switch4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/if2 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/if2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/if3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/if4 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/if4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/if5 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/if5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/if6 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/cond/if6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/Scanner2 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/Scanner2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/Scanner2_1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/Scanner2_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/Scanner3 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/Scanner3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ScannerWhile1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ScannerWhile1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ScannerWhile1_1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ScannerWhile1_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ScannerWhile2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ScannerWhile2_1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ScannerWhile2_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ScannerWhile3 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ScannerWhile3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex 2/ChangeVarEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex 2/ScannerEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex 2/ScannerEx3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex 2/ScannerEx4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex 2/ScannerEx5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex 2/ScannerWhileEx2 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex 2/ScannerWhileEx2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex 2/ScannerWhileEx3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex 2/ScannerWhileEx4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex 2/ScannerwhileEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex/ChangeVarEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex/ChangeVarEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex/ScannerEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex/ScannerEx2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex/ScannerEx3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex/ScannerEx4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex/ScannerEx5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex/ScannerWhileEx2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex/ScannerWhileEx3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex/ScannerWhileEx4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex/ScannerwhileEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1 2/ScannerEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1 2/ScannerEx2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ChangeVarEx 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ScannerEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ScannerEx2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ScannerEx3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ScannerEx4 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ScannerEx4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ScannerEx4_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ScannerEx5 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ScannerEx5 3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ScannerEx5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ScannerWhileEx1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ScannerWhileEx1 3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ScannerWhileEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ScannerWhileEx2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ScannerWhileEx3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ScannerWhileEx4 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ScannerWhileEx4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ScannerWhileEx4_1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ScannerWhileEx4_1 3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ScannerWhileEx4_1 4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/ScannerWhileEx4_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/ex1/cannerEx3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/scanner/scanner1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/self/Self20250906 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/self/SelfOperatorEx1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/self/SelfOperatorEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/self/SelfOperatorEx2 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/self/SelfOperatorEx3 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/self/SelfOperatorEx3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/self/SelfOperatorEx4 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/self/SelfOperatorEx4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/self/self1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/self/self1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/variable/Var1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/variable/Var2 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/variable/Var2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/variable/ex/VarEx1 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/variable/ex/VarEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/variable/ex/VarEx1Question 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/variable/ex/VarEx1Question.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/variable/ex/VarEx2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/variable/ex/VarEx3 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/variable/ex/VarEx3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/variable/var4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/variable/ver3 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/variable/ver3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/variable/ver7 2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/variable/ver7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_self_training2/out/production/haryun1/variable/ver8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git_2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git_2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git_2/git_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git_2/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/.." source="main_1" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main_1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="33zntN7uRKX6B3xgXWeBc78ac6j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;test&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/01. jeung ha ryun/05. 백앤드 개발자/05. JAVA_연습자료/java_course/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.and.region&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java_course" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b092cc7d-e567-4e79-9324-ac4c2228dece" name="Changes" comment="" />
+      <created>1760328982255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760328982255</updated>
+      <workItem from="1760328983235" duration="331000" />
+      <workItem from="1760331973236" duration="406000" />
+      <workItem from="1760332886110" duration="1882000" />
+      <workItem from="1760336848461" duration="256000" />
+      <workItem from="1760337131548" duration="47000" />
+      <workItem from="1760337194608" duration="769000" />
+      <workItem from="1760339353579" duration="598000" />
+      <workItem from="1760342361646" duration="4027000" />
+      <workItem from="1760353254487" duration="212000" />
+    </task>
+    <task id="LOCAL-00001" summary="테스트 111">
+      <option name="closed" value="true" />
+      <created>1760333025795</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760333025796</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge pull request #1 from kingyulim/jang_seo_yeon&#10;&#10;머지 테스트" />
+    <MESSAGE value="테스트 111" />
+    <option name="LAST_COMMIT_MESSAGE" value="테스트 111" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
