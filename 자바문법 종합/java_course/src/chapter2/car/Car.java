@@ -7,6 +7,10 @@ public class Car {
     int accelerate;
 
     //생성자
+    // 생성자의 특징
+    // 1)클래스와 이름이 같아야 합니다.
+    // 2)반환 타입이 존재하지 않습니다.
+    // 3)여러개가 존재할 수 있습니다.
     Car(String name, String carModel) {
         this.name = name;
         //this.accelerate = 0;
@@ -18,7 +22,6 @@ public class Car {
     }
 
     //현재 주행 속도를 입력 되어 주행속도가 0보다 크다면 가속중이라는 문구 출력한다
-
 //    void getAccelerate(int accelerate) {
 //        if (accelerate > 0) {
 //            System.out.println("가속중 입니다.");
