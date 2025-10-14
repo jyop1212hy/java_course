@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="792313e6-7efd-4a86-8c99-910f320c7b0d" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/Haryun_JAVA/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Haryun_JAVA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Haryun_JAVA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Haryun_JAVA/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Haryun_JAVA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Haryun_JAVA/Haryun_JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Haryun_JAVA/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Haryun_JAVA" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="32sFDshCjeA1IaS6CemybaobiDc" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/01. jeung ha ryun/05. 백앤드 개발자/05. JAVA_연습자료",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.ChangeVarEx.executor": "Run",
+    "애플리케이션.ScannerEx1.executor": "Run",
+    "애플리케이션.ScannerEx2.executor": "Run",
+    "애플리케이션.ScannerEx4.executor": "Run",
+    "애플리케이션.ScannerEx4_1.executor": "Run",
+    "애플리케이션.ScannerEx5.executor": "Run",
+    "애플리케이션.ScannerWhileEx1.executor": "Run",
+    "애플리케이션.ScannerWhileEx2.executor": "Run",
+    "애플리케이션.ScannerWhileEx3.executor": "Run",
+    "애플리케이션.ScannerWhileEx4.executor": "Run",
+    "애플리케이션.ScannerWhileEx4_1.executor": "Run",
+    "애플리케이션.ScannerwhileEx1.executor": "Run",
+    "애플리케이션.cannerEx3.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="scanner.ex1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.ScannerWhileEx1">
+    <configuration name="ScannerWhileEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.ex1.ScannerWhileEx1" />
+      <module name="haryun1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scanner.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerWhileEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.ex1.ScannerWhileEx2" />
+      <module name="haryun1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scanner.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerWhileEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.ex1.ScannerWhileEx3" />
+      <module name="haryun1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scanner.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerWhileEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.ex1.ScannerWhileEx4" />
+      <module name="haryun1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scanner.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerWhileEx4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.ex1.ScannerWhileEx4_1" />
+      <module name="haryun1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scanner.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="792313e6-7efd-4a86-8c99-910f320c7b0d" name="변경" comment="" />
+      <created>1758201257597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758201257597</updated>
+      <workItem from="1758201259456" duration="5726000" />
+      <workItem from="1758207013936" duration="12000" />
+      <workItem from="1758252057306" duration="3772000" />
+      <workItem from="1758381151532" duration="2374000" />
+      <workItem from="1758439521803" duration="22112000" />
+      <workItem from="1759404939313" duration="3111000" />
+      <workItem from="1759484745690" duration="2466000" />
+      <workItem from="1759494334591" duration="23000" />
+      <workItem from="1759494373363" duration="822000" />
+      <workItem from="1759495215633" duration="2022000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
