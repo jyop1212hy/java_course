@@ -25,6 +25,7 @@ public class Cat {
         this.name = name;
         this.age = age;
         this.isNeutering = isNeutering;
+
     }
 
     // 기
