@@ -1,7 +1,8 @@
-package chapter3;
+package chapter3.exception;
 
 public class ExceptionPractice {
-    // 1. 언체크(RuntimeException - UncheckedException) 예외 호출 예시
+
+        // 1. 언체크(RuntimeException - UncheckedException) 예외 호출 예시
 //    public void callUncheckedException() {
 //
 //        if (true) {
@@ -35,5 +36,6 @@ public class ExceptionPractice {
 //            } catch (Exception e) {
 //                System.out.println("체크 예외 처리");
 //            }
+        }
     }
-}
+
